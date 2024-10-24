@@ -1,0 +1,24 @@
+# Ignorar arquivos de build
+/bin/
+/obj/
+
+# Ignorar arquivos temporários do Visual Studio
+*.user
+*.suo
+*.vs/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração
+appsettings.Development.json
+appsettings.Production.json
+
+# Ignorar pastas de dependências
+node_modules/
+/packages/
+
+# Ignorar arquivos de imagens gerados
+*.png
+*.jpg
+*.gif
